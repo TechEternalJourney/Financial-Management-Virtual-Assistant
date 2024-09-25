@@ -24,7 +24,9 @@ Fitur Fitur yang ada pada Financial Management Virtual Assistant antara lain :
 10. Output bisa berupa teks, gambar, dan voice
 11. Merekomendasi metode keuangan agar mencapai financial freedom
 
+
 **🛠 Teknologi yang digunakan**
+_________________________________________________________________________________________________________________________________________________________________________
 Backend :
   1. Python
   2. Flask atau Django
