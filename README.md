@@ -47,54 +47,54 @@ Frontend :
      
 Mobile Development :
 
-  8. React Native
-  9. Flutter
-  10. Expo
+  7. React Native
+  8. Flutter
+  9. Expo
 
 AI dan Machine Learning :
 
-  11. TensorFlow atau PyTorch
-  12. Scikit-learn
-  13. NLTK (Natural Language Toolkit)
+  10. TensorFlow atau PyTorch
+  11. Scikit-learn
+  12. NLTK (Natural Language Toolkit)
 
 Database :
 
-  14. PostgreSQL atau MySQL
-  15. MongoDB
-  16. Firebase
+  13. PostgreSQL atau MySQL
+  14. MongoDB
+  15. Firebase
 
 API :
 
-  17. Plaid API atau Yodlee
-  18. IEX Cloud atau Alpha Vantage API
+  16. Plaid API atau Yodlee
+  17. IEX Cloud atau Alpha Vantage API
 
 Voice Recognition :
 
-  19. Google Cloud Speech-to-Text API
-  20. Dialogflow
+  18. Google Cloud Speech-to-Text API
+  19. Dialogflow
 
 Keamanan :
 
-  21. OAuth2
-  22. JWT (JSON Web Token)
-  23. SSL/TLS
-  24. bcrypt atau Argon2
+  20. OAuth2
+  21. JWT (JSON Web Token)
+  22. SSL/TLS
+  23. bcrypt atau Argon2
 
 Cloud Deployment dan Infrastruktur :
 
-  25. Amazon Web Services (AWS), Google Cloud Platform (GCP), atau Microsoft Azure
-  26. Docker
-  27. Kubernetes
+  24. Amazon Web Services (AWS), Google Cloud Platform (GCP), atau Microsoft Azure
+  25. Docker
+  26. Kubernetes
 
 Natural Language Processing (NLP) :
 
-  28. SpaCy atau Transformers by Hugging Face
+  27. SpaCy atau Transformers by Hugging Face
 
 Integrasi Output Berupa Teks, Gambar, dan Voice :
 
-  29. Matplotlib atau Chart.js
-  30. Tesseract
-  31. Google Text-to-Speech API
+  28. Matplotlib atau Chart.js
+  29. Tesseract
+  30. Google Text-to-Speech API
 
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
